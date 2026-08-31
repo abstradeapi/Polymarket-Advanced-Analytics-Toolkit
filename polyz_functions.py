@@ -121,9 +121,10 @@ def market_analyzer(market_slug):
 
 =========================================================================================================
 
-Pay get full soirce code here: 
+Pay & get full source code here: 
 
 https://pay.oxapay.com/17944852
+
 
 
 
